@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="939440e6-27a1-476f-9d0b-79899faabeb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/dbbak/myblogV1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protected/config/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/protected/config/main.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/config/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+            <state relative-caret-position="364">
+              <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -35,32 +35,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/protected/config/main_product.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
+            <state relative-caret-position="250">
+              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
               <folding>
                 <element signature="e#6#290#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/models/Config.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/data/dbbak/myblogV1.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24273">
-              <caret line="1815" lean-forward="true" selection-start-line="1815" selection-end-line="1815" />
             </state>
           </provider>
         </entry>
@@ -73,9 +55,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/protected/config/main.php" />
         <option value="$PROJECT_DIR$/protected/config/main_product.php" />
         <option value="$PROJECT_DIR$/data/dbbak/myblogV1.sql" />
+        <option value="$PROJECT_DIR$/protected/config/main.php" />
       </list>
     </option>
   </component>
@@ -100,13 +82,13 @@
             <path>
               <item name="myBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="myBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="protected" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="myBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="dbbak" type="462c0819:PsiDirectoryNode" />
+              <item name="protected" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,12 +129,12 @@
       <workItem from="1569939879034" duration="223000" />
       <workItem from="1569940230326" duration="414000" />
       <workItem from="1569942368888" duration="191000" />
-      <workItem from="1569944360350" duration="136000" />
+      <workItem from="1569944360350" duration="312000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1108000" />
+    <option name="totallyTimeSpent" value="1284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="74" width="1280" height="687" extended-state="0" />
@@ -184,16 +166,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/data/dbbak/bagecms_20180122_9647_1.sql" />
-    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/params.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/dbbak/20180505_gtvtlaTwwkNUGBg_1.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -201,27 +173,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/main_product.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-          <folding>
-            <element signature="e#6#290#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/models/Config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="84">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="5" selection-start-column="72" selection-end-line="6" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/dbbak/myblogV1.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24273">
-          <caret line="1815" lean-forward="true" selection-start-line="1815" selection-end-line="1815" />
+        <state relative-caret-position="28">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/params.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="e#6#290#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

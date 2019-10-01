@@ -34,7 +34,7 @@ return array(
            'class'=>'CFileCache',
         ),
 		'db'=>array(
-			'connectionString' => 'mysql:host=127.0.0.1;dbname=myblog_yii_db',
+			'connectionString' => 'mysql:host=127.0.0.1;dbname=myblogdb',
 			'emulatePrepare' => true,
 			'enableParamLogging' => true,
 			'enableProfiling'=>true,
