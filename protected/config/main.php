@@ -34,7 +34,6 @@ return array(
            'class'=>'CFileCache',
         ),
 		//线上
-        /*
 		'db'=>array(
 			'connectionString' => 'mysql:host=127.0.0.1;dbname=myblogdb',
 			'emulatePrepare' => true,
@@ -45,8 +44,9 @@ return array(
 			'charset' => 'utf8',
 			'tablePrefix' => 'bage_',
 		),
-        */
+
         //本地
+        /*
         'db'=>array(
             'connectionString' => 'mysql:host=127.0.0.1;dbname=myblogdb_local',
             'emulatePrepare' => true,
@@ -57,6 +57,7 @@ return array(
             'charset' => 'utf8',
             'tablePrefix' => 'bage_',
         ),
+        */
 
 		'errorHandler'=>array(
             'errorAction'=>'error/index',
