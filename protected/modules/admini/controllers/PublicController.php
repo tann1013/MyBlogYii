@@ -36,7 +36,9 @@ class PublicController extends Controller
 //                elseif ($data->group_id == 2) {
 //                    $model->addError('username', '用户被锁定，请联系网站管理');
 //
-//                } else {
+//                }
+
+            else {
                     parent::_stateWrite(
                         array(
                             'userId'=>$data->id,
