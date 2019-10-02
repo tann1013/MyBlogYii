@@ -33,18 +33,19 @@ return array(
         'cache'=>array(
            'class'=>'CFileCache',
         ),
-		//线上
-		'db'=>array(
-			'connectionString' => 'mysql:host=127.0.0.1;dbname=myblogdb',
-			'emulatePrepare' => true,
-			'enableParamLogging' => true,
-			'enableProfiling'=>true,
-			'username' => 'root',
-            'password' => '123456',
-			'charset' => 'utf8',
-			'tablePrefix' => 'bage_',
-		),
-		
+
+        //本地
+        'db'=>array(
+            'connectionString' => 'mysql:host=127.0.0.1;dbname=myblogdb_local',
+            'emulatePrepare' => true,
+            'enableParamLogging' => true,
+            'enableProfiling'=>true,
+            'username' => 'root',
+            'password' => 'root',
+            'charset' => 'utf8',
+            'tablePrefix' => 'bage_',
+        ),
+
 		'errorHandler'=>array(
             'errorAction'=>'error/index',
         ), 
