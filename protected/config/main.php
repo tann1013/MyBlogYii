@@ -57,7 +57,7 @@ return array(
             'charset' => 'utf8',
             'tablePrefix' => 'bage_',
         ),
-		
+
 		'errorHandler'=>array(
             'errorAction'=>'error/index',
         ), 
