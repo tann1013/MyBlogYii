@@ -1,0 +1,7 @@
+
+一、后台地址：
+http://17logsdev.com/index.php?r=admini/public/login
+账号和密码：admin/admin
+
+
+

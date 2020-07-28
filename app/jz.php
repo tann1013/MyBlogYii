@@ -86,7 +86,7 @@ $config = array(
 <script type="text/javascript">
 $('.form_zone input[type=submit]').click(function(){
     //config
-    var every_limit = 50;//每天最大预算
+    var every_limit = 60;//每天最大预算
     var addtime    = $('.form_zone input[name=addtime]').val();
     var op_eat     = $('.form_zone input[name=op_eat]').val();
     var op_traffic = $('.form_zone input[name=op_traffic]').val();
@@ -98,13 +98,15 @@ $('.form_zone input[type=submit]').click(function(){
 
     //计算total
     var total =  parseInt(op_eat)+parseInt(op_traffic)+parseInt(op_other);
+    //超支金额
+    var over_num =  total-every_limit;
     if(isNaN(total)){total = 0;}
 
     $('.form_zone input[name=total]').val(total);
     //超出预算提示！
     if(total > every_limit){
         //$('#message').html('<span style="color: red">您已经超支！</span>');
-        alert('您今天已经超支，请注意节省！');
+        alert('您今天已经超支￥'+over_num+'，请注意节省！');
     }else{
         $('#message').html('<span style="color: green">恭喜您，请明天继续保持！</span>');
     }
