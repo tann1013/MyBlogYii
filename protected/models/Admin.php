@@ -27,9 +27,9 @@ class Admin extends XBaseModel
 	{
 		return array(
 			array('username, password', 'required', 'on'=>'create'),
-			array('username, password, captcha', 'required', 'on'=>'login'),
+			array('username, password', 'required', 'on'=>'login'),
 			array('username', 'unique', 'on'=>'create'),
-			array('captcha', 'captcha', 'allowEmpty'=>!extension_loaded('gd'), 'on'=>'login'),
+//			array('captcha', 'captcha', 'allowEmpty'=>!extension_loaded('gd'), 'on'=>'login'),
 			array('username, password', 'required'),
 			array('group_id, last_login_time, create_time', 'numerical', 'integerOnly'=>true),
 			array('username', 'length', 'max'=>50),
@@ -79,7 +79,6 @@ class Admin extends XBaseModel
 			'login_count' => '登录次数',
 			'status_is' => '用户状态',
 			'create_time' => '录入时间',
-			'captcha' => '验证码',
 		);
 	}
 

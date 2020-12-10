@@ -2,86 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="939440e6-27a1-476f-9d0b-79899faabeb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/myNote.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/jz.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/jz.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/autocomplete/indicator.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/autocomplete/indicator.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/autocomplete/jquery.autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/autocomplete/jquery.autocomplete.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.ajaxqueue.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.ajaxqueue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.autocomplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.autocomplete.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.ba-bbq.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.ba-bbq.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.ba-bbq.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.ba-bbq.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.bgiframe.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.bgiframe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.cookie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.history.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.history.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.maskedinput.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.maskedinput.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.maskedinput.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.maskedinput.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.metadata.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.metadata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.multifile.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.multifile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.rating.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.rating.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.treeview.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.treeview.async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.treeview.edit.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.treeview.edit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.treeview.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.treeview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.yii.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.yii.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.yiiactiveform.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.yiiactiveform.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.yiitab.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jquery.yiitab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_222222_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_454545_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_888888_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery-ui.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.accordion.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.accordion.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.autocomplete.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.button.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.core.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.core.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.datepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.datepicker.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.dialog.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.progressbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.progressbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.resizable.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.resizable.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.selectable.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.selectable.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.spinner.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.spinner.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.tabs.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.tooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/css/base/jquery.ui.tooltip.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/js/jquery-ui-i18n.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/js/jquery-ui-i18n.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/jui/js/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/jui/js/jquery-ui.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/punycode.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/punycode.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/punycode.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/punycode.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/rating/delete.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/rating/delete.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/rating/jquery.rating.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/rating/jquery.rating.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/rating/star.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/rating/star.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/ajax-loader.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/file.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/file.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/folder-closed.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/folder-closed.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/folder.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/folder.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/minus.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/minus.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/plus.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/plus.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-black-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-black-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-black.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-black.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-default-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-default-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-default.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-default.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-famfamfam-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-famfamfam-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-famfamfam.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-famfamfam.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-gray-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-gray-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-gray.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-gray.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-red-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-red-line.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-red.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/images/treeview-red.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/jquery.treeview.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/treeview/jquery.treeview.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/e3f2b7bc/yiitab/jquery.yiitab.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/e3f2b7bc/yiitab/jquery.yiitab.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/autocomplete/indicator.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/autocomplete/indicator.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/autocomplete/jquery.autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/autocomplete/jquery.autocomplete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.ajaxqueue.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.ajaxqueue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.autocomplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.autocomplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.ba-bbq.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.ba-bbq.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.ba-bbq.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.ba-bbq.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.bgiframe.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.bgiframe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.cookie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.history.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.history.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.maskedinput.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.maskedinput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.maskedinput.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.maskedinput.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.metadata.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.metadata.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.multifile.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.multifile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.rating.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.rating.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.treeview.async.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.treeview.async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.treeview.edit.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.treeview.edit.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.treeview.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.treeview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.yii.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.yii.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.yiiactiveform.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.yiiactiveform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jquery.yiitab.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jquery.yiitab.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_222222_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_222222_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_2e83ff_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_2e83ff_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_454545_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_454545_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_888888_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_888888_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/images/ui-icons_cd0a0a_256x240.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery-ui.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery-ui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.accordion.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.accordion.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.autocomplete.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.autocomplete.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.button.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.button.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.core.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.core.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.datepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.datepicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.dialog.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.dialog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.progressbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.progressbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.resizable.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.resizable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.selectable.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.selectable.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.spinner.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.spinner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.tabs.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.tabs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.tooltip.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/css/base/jquery.ui.tooltip.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/js/jquery-ui-i18n.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/js/jquery-ui-i18n.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/jui/js/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/jui/js/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/punycode.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/punycode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/punycode.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/punycode.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/rating/delete.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/rating/delete.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/rating/jquery.rating.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/rating/jquery.rating.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/rating/star.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/rating/star.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/ajax-loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/file.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/file.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/folder-closed.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/folder-closed.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/folder.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/folder.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/minus.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/minus.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/plus.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/plus.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-black-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-black-line.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-black.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-black.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-default-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-default-line.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-default.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-default.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-famfamfam-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-famfamfam-line.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-famfamfam.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-famfamfam.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-gray-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-gray-line.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-gray.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-gray.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-red-line.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-red-line.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-red.gif" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/images/treeview-red.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/treeview/jquery.treeview.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/treeview/jquery.treeview.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/3e48ee9a/yiitab/jquery.yiitab.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/3e48ee9a/yiitab/jquery.yiitab.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f7a18b83/pager.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/f7a18b83/pager.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/protected/config/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/protected/config/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protected/models/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/protected/models/Admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protected/modules/admini/controllers/PublicController.php" beforeDir="false" afterPath="$PROJECT_DIR$/protected/modules/admini/controllers/PublicController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/protected/modules/admini/views/public/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/protected/modules/admini/views/public/login.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,36 +94,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/config/main.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/dbbak/20180505_gtvtlaTwwkNUGBg_1.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1386">
-              <caret line="99" column="6" selection-end-line="1665" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/jz.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
-              <folding>
-                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/myNote.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="70">
@@ -131,18 +103,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/framework/web/widgets/captcha/CCaptcha.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="14">
-              <caret line="1" column="3" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+            <state relative-caret-position="364">
+              <caret line="33" column="14" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admini/controllers/PublicController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="139">
+              <caret line="34" selection-start-line="34" selection-start-column="2" selection-end-line="37" selection-end-column="19" />
               <folding>
-                <element signature="e#6#280#0#PHP" expanded="true" />
+                <element signature="e#6#301#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/models/Admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/yiilite.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="6963" column="20" selection-start-line="6963" selection-start-column="20" selection-end-line="6963" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/modules/admini/views/public/login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>GD with FreeType or ImageMagic</find>
+      <find>GD with FreeType or ImageMagick PHP extensions are required.</find>
+      <find>GD with FreeType or ImageMagick PHP extensions are required</find>
+      <find>CCaptcha</find>
+      <find>Admin.captcha</find>
+      <find>captcha</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -152,16 +170,20 @@
       <list>
         <option value="$PROJECT_DIR$/protected/config/main_product.php" />
         <option value="$PROJECT_DIR$/data/dbbak/myblogV1.sql" />
-        <option value="$PROJECT_DIR$/protected/modules/admini/controllers/PublicController.php" />
         <option value="$PROJECT_DIR$/protected/config/main_local.php" />
         <option value="$PROJECT_DIR$/docs/myNote.txt" />
-        <option value="$PROJECT_DIR$/protected/config/main.php" />
         <option value="$PROJECT_DIR$/app/jz.php" />
+        <option value="$PROJECT_DIR$/protected/config/main.php" />
+        <option value="$PROJECT_DIR$/framework/web/widgets/captcha/CCaptcha.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admini/views/public/login.php" />
+        <option value="$PROJECT_DIR$/protected/models/Admin.php" />
+        <option value="$PROJECT_DIR$/protected/modules/admini/controllers/PublicController.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="84" />
+    <option name="x" value="95" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="687" />
   </component>
@@ -170,6 +192,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,13 +203,46 @@
             <path>
               <item name="myblogs_base_yii_v1" type="b2602c69:ProjectViewProjectNode" />
               <item name="myblogs_base_yii_v1" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblogs_base_yii_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblogs_base_yii_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="protected" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblogs_base_yii_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblogs_base_yii_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="protected" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblogs_base_yii_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblogs_base_yii_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="protected" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="admini" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblogs_base_yii_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblogs_base_yii_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="protected" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="admini" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myblogs_base_yii_v1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myblogs_base_yii_v1" type="462c0819:PsiDirectoryNode" />
+              <item name="protected" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="admini" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -232,17 +288,20 @@
       <workItem from="1595949161012" duration="276000" />
       <workItem from="1595949574396" duration="270000" />
       <workItem from="1595949967930" duration="384000" />
+      <workItem from="1607505648994" duration="1092000" />
+      <workItem from="1607507982357" duration="439000" />
+      <workItem from="1607569266535" duration="1259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3989000" />
+    <option name="totallyTimeSpent" value="6779000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="84" width="1280" height="687" extended-state="0" />
+    <frame x="95" y="23" width="1280" height="687" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2956381" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -275,20 +334,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/dbbak/myblogV1.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/yiilite.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6956" column="5" lean-forward="true" selection-start-line="6956" selection-start-column="5" selection-end-line="6956" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/config/main_product.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
@@ -299,20 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/modules/admini/controllers/PublicController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="36" column="68" lean-forward="true" selection-start-line="36" selection-start-column="68" selection-end-line="36" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/main_local.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/models/XBaseModel.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -320,22 +351,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/models/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="106" column="9" lean-forward="true" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/config/params.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/dbbak/20180505_gtvtlaTwwkNUGBg_1.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="99" column="6" selection-end-line="1665" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -347,6 +364,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/jz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main_local.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="44" column="29" selection-start-line="44" selection-start-column="29" selection-end-line="44" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="45" column="10" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dbbak/20180505_gtvtlaTwwkNUGBg_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dbbak/myblogV1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/temp/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="263" column="20" lean-forward="true" selection-start-line="263" selection-start-column="20" selection-end-line="263" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1946">
+          <caret line="148" column="31" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="42" />
+          <folding>
+            <element signature="e#6#307#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/web/widgets/captcha/CCaptchaAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/myNote.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -354,19 +433,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/config/main.php">
+    <entry file="file://$PROJECT_DIR$/protected/modules/admini/views/public/login.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="39" column="41" lean-forward="true" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
+        <state relative-caret-position="282">
+          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/jz.php">
+    <entry file="file://$PROJECT_DIR$/framework/yiilite.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="112" column="17" selection-start-line="112" selection-start-column="17" selection-end-line="112" selection-end-column="17" />
+        <state relative-caret-position="182">
+          <caret line="6963" column="20" selection-start-line="6963" selection-start-column="20" selection-end-line="6963" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/web/widgets/captcha/CCaptcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="33" column="14" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/modules/admini/controllers/PublicController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="34" selection-start-line="34" selection-start-column="2" selection-end-line="37" selection-end-column="19" />
           <folding>
-            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="e#6#301#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

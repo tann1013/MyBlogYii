@@ -19,10 +19,14 @@ class PublicController extends Controller
     public function actionLogin ()
     {
         $model = new Admin('login');
+
         if (XUtils::method() == 'POST') {
             $model->attributes = $_POST['Admin'];
+
             if ($model->validate()) {
                 $data = $model->find('username=:username', array ('username' => $model->username ));
+
+
                 if ($data === null) {
                     $model->addError('username', '用户不存在');
                     AdminLogger::_create(array ('catalog' => 'login' , 'intro' => '登录失败，用户不存在:' . CHtml::encode($model->username) , 'user_id' => 0 ));
@@ -33,12 +37,13 @@ class PublicController extends Controller
 //                    AdminLogger::_create(array ('catalog' => 'login' , 'intro' => '登录失败，密码不正确:' . CHtml::encode($model->username). '，使用密码：'.CHtml::encode($model->password) , 'user_id' => 0 ));
 //                }
 //
-//                elseif ($data->group_id == 2) {
-//                    $model->addError('username', '用户被锁定，请联系网站管理');
-//
-//                }
+                elseif ($data->group_id == 2) {
+                    $model->addError('username', '用户被锁定，请联系网站管理');
 
+                }
             else {
+
+
                     parent::_stateWrite(
                         array(
                             'userId'=>$data->id,

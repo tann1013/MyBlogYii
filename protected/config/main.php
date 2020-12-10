@@ -35,7 +35,7 @@ return array(
         ),
 		//线下
 		'db'=>array(
-			'connectionString' => 'mysql:host=127.0.0.1;dbname=localdb_myblogdb',
+			'connectionString' => 'mysql:host=127.0.0.1;dbname=localdb_myblogs_base_yii',
 			'emulatePrepare' => true,
 			'enableParamLogging' => true,
 			'enableProfiling'=>true,
