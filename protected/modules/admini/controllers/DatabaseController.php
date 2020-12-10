@@ -208,7 +208,10 @@ class DatabaseController extends XAdminiBase
                     $tabledump .= "INSERT INTO `$tables[$i]` VALUES(";
                     //for ($j = 0; $j < $numfields; $j ++) {
                     foreach ($keys as $k) {
-                        $tabledump .= $comma . "'" . mysql_escape_string($row[$k]) . "'";
+                        //$tabledump .= $comma . "'" . mysql_escape_string($row[$k]) . "'";
+                        //mysql_real_escape_string
+                        $tabledump .= $comma . "'" . mysql_real_escape_string($row[$k]) . "'";
+
                         $comma = ",";
                     }
                     $tabledump .= ");\n";
